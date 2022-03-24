@@ -5,7 +5,7 @@ public static void sum(int[] x)
 	int Total=0;
 	for (int x1:x)
 	{
-		Total=Total+x1;
+	Total=Total+x1;
 	}
 	System.out.println("The Sum is:"+Total);
 }
