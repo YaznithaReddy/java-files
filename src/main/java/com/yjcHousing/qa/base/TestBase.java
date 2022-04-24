@@ -19,6 +19,7 @@ public class TestBase
 	{
 	try
 	{
+
 		prop = new Properties();
 		FileInputStream ip = new FileInputStream("C:\\Users\\reddy\\workspace\\YjcHousing\\src\\main\\java\\com\\yjcHousing\\qa\\config\\config.properties");
 		prop.load(ip);
